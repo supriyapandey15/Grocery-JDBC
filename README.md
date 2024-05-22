@@ -5,19 +5,19 @@ Thhe system facilitates efficient management of shop products, enabling users to
 # Features
 * Product Management
   
-  ** Add Product: Add new products to the shop.
+1.Add Product: Add new products to the shop.
   
-  ** Delete Product : Remove existing products from the shop by ID.
+2.Delete Product : Remove existing products from the shop by ID.
   
-  ** Fetch Product Details : Retrieve and display details of all products.
+3.Fetch Product Details : Retrieve and display details of all products.
 
-  ** Update Product : Modify Product details such as name, price, quantity based on product ID.
+4.Update Product : Modify Product details such as name, price, quantity based on product ID.
 
 * Shop Details Management
 
-** Prompt for shop details for first run.
+1.Prompt for shop details for first run.
 
-** Automatically fetch the details and display it from the second run ownwards.
+2.Automatically fetch the details and display it from the second run ownwards.
 
 * MVC Architecture : Ensures a clean separation of concerns, enhancing, ensuring persistent storage of shop and product information.
 
@@ -25,4 +25,8 @@ Thhe system facilitates efficient management of shop products, enabling users to
 
 * Model
    The model represents the data layer of the application:
-** Product : A class representinh a product with attributes like 'id', 'name', 'price', 'quantity' and 'availability'.
+1.Product : A class representinh a product with attributes like 'id', 'name', 'price', 'quantity' and 'availability'.
+
+2.Shop : A class representing shop details with attributes like 'id', 'shop_Name','shop_Address','Gstno', 'contactNo', 'ownerName'.
+
+* View
