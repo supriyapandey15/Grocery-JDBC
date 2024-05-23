@@ -68,10 +68,45 @@ Thhe system facilitates efficient management of shop products, enabling users to
 
   # Usage
 
-  ###### 1. Intial Setup
+  #### 1. Intial Setup
 
-  * On the first run, the system will prompt you to enter shop details (name, address, contact, gstno, ownerName, Id). These details will be stored and automatically 
+ * On the first run, the system will prompt you to enter shop details (name, address, contact, gstno, ownerName, Id). These details will be stored and automatically 
     dispalyed//fetched on subsequent runs.
+
+#### Product Operations 
+
+* Add PRoducts : Follow the prompts to enter product details(id, name, price, quantity).
+
+* View products : Displays a list of all products in the database.
+
+* Update Product :
+
+ * Select a product by ID to update.
+
+ * Specify what attributes you want to update : name, price or quantity.
+
+* Delete Product : Remove a product by its ID.
+
+* Example of first run
+
+    For the first run you are prompt to enter shop details
+<img width="290" alt="firstrun" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/27fd9503-8cd7-4d36-82df-a863990f6f14">
+
+<img width="563" alt="database1" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/9eb70395-1858-455e-9738-d26867180600">
+
+
+* Example of subsequent runs
+
+<img width="360" alt="subsequent run" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/d66f51fe-537e-460e-abd5-f24523554bd9">
+
+<img width="305" alt="remove products" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/75f906d8-3daf-469d-a3d4-9b06b208d0c3">
+
+<img width="437" alt="fetch Update" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/a0591021-49e4-462f-bb20-a20c19829bc8">
+
+
+
+
+   
 
 
      
