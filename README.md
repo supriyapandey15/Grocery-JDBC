@@ -58,7 +58,10 @@ Thhe system facilitates efficient management of shop products, enabling users to
  #### 1. Add PostgresSQL Dependency
  
  Ensure you have maven installed. Then, add the PostgreSQL dependency to your 'pom.xml' file
+
+ 
  <img width="436" alt="pomfile" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/10bebdec-15e1-4ce7-aa84-5ca3976555d2">
+ 
 
  #### 2. Configure Database 
 
@@ -92,6 +95,8 @@ Thhe system facilitates efficient management of shop products, enabling users to
     For the first run you are prompt to enter shop details
 <img width="290" alt="firstrun" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/27fd9503-8cd7-4d36-82df-a863990f6f14">
 
+
+
 <img width="563" alt="database1" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/9eb70395-1858-455e-9738-d26867180600">
 
 
@@ -99,7 +104,11 @@ Thhe system facilitates efficient management of shop products, enabling users to
 
 <img width="360" alt="subsequent run" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/d66f51fe-537e-460e-abd5-f24523554bd9">
 
+
+
 <img width="305" alt="remove products" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/75f906d8-3daf-469d-a3d4-9b06b208d0c3">
+
+
 
 <img width="437" alt="fetch Update" src="https://github.com/supriyapandey15/Grocery-JDBC/assets/113895235/a0591021-49e4-462f-bb20-a20c19829bc8">
 
